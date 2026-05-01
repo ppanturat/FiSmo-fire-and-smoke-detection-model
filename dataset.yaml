@@ -1,0 +1,5 @@
+path: /content/drive/MyDrive/OS final project/data/yolo
+train: images/train
+val:   images/val
+nc: 5
+names: ['orange_fire', 'red_fire', 'light_smoke', 'dense_smoke', 'neither']
