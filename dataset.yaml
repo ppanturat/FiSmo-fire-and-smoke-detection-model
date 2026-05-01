@@ -1,4 +1,4 @@
-path: /content/drive/MyDrive/OS final project/data/yolo
+path: /content/drive/MyDrive/fismo-detection/data/yolo
 train: images/train
 val:   images/val
 nc: 5
